@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:5000";
+import { BASE_URL } from "./utils.js";
 
 // Ambil elemen form
 const formulir = document.querySelector("form");
