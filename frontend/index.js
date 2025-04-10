@@ -1,4 +1,4 @@
-import { BASE_URL } from "./utils.js";
+const BASE_URL = "https://backend5-1031435520100.us-central1.run.app";
 
 // Ambil elemen form
 const formulir = document.querySelector("form");
