@@ -6,7 +6,7 @@ POST  http://localhost:5000/tambahdata
 Content-Type: application/json
 
 {
-    "nama":"messi",
+    "nama":"messi goat",
     "judul":"goal",
     "catatan":"ankara messi ankara messi ankara messi, gol gol gol gol"
     
