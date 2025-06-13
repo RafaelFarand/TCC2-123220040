@@ -5,38 +5,36 @@
     font-family: Arial, sans-serif;
 }
 
-
 body {
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #121212;
+    color: #e0e0e0;
     padding: 20px;
 }
-
 
 h2, h3 {
     text-align: center;
     margin-bottom: 20px;
+    color: #ffffff;
 }
 
-
 form {
-    background: #fff;
+    background: #1e1e1e;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
     max-width: 400px;
     margin: 0 auto 20px;
 }
-
 
 form input, form textarea {
     width: 100%;
     padding: 8px;
     margin: 5px 0 15px;
-    border: 1px solid #ccc;
+    border: 1px solid #555;
     border-radius: 4px;
+    background: #2c2c2c;
+    color: #e0e0e0;
 }
-
 
 button {
     background: #007bff;
@@ -52,18 +50,18 @@ button:hover {
     background: #0056b3;
 }
 
-
 table {
     width: 100%;
     border-collapse: collapse;
-    background: #fff;
+    background: #1e1e1e;
     margin-top: 20px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    color: #e0e0e0;
 }
 
 th, td {
     padding: 10px;
-    border: 1px solid #ddd;
+    border: 1px solid #333;
     text-align: left;
 }
 
@@ -75,6 +73,7 @@ th {
 /* Tombol edit & hapus */
 .btn-edit {
     background: #ffc107;
+    color: #000;
 }
 
 .btn-edit:hover {
@@ -83,6 +82,7 @@ th {
 
 .btn-hapus {
     background: #dc3545;
+    color: #fff;
 }
 
 .btn-hapus:hover {
